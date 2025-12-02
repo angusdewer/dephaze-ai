@@ -3,7 +3,7 @@
 **Version:** v1.0  
 **DOI:** https://doi.org/10.5281/zenodo.17782457  
 **Author:** Angus Dewer (Dephaze Manufacture)
-dephaze.eu
+ 
 DephazeAI is a substrate-independent cognitive architecture based on the
 *Dephaze Phase-Field Framework* (Ω₀ ⊗ Ψ).  
 It introduces a third paradigm of intelligence beyond Symbolic AI and
@@ -24,9 +24,9 @@ Zenodo archival record.
 ## 🔗 Zenodo Publication (Official DOI)
 
 **DephazeAI — Cognitive Architecture for Structural Intelligence  
-(v2.0 Final Defensive Publication Edition)**  
+(v1.0 Final Defensive Publication Edition)**  
 https://doi.org/10.5281/zenodo.17782457
-
+https://dephaze.eu
 ---
 
 ## 📚 Documentation Structure
